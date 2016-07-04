@@ -1,2 +1,2 @@
 # shadmem
-Exemple project that explains how to make a shared memory between a C program and a Python program
+Example project that explains how to make a shared memory between programs written in C and Python.
